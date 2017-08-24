@@ -1,5 +1,5 @@
-# Black Jack
+# Blackjack
 
-A single player Black Jack game
+A single player Blackjack game
 
 Created to practice Python
